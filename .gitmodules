@@ -1,0 +1,9 @@
+[submodule "obsi"]
+	path = obsi
+	url = https://github.com/shlomos/obsi.git
+[submodule "moonlight"]
+	path = moonlight
+	url = https://github.com/shlomos/moonlight.git
+[submodule "MoonlightFake"]
+	path = MoonlightFake
+	url = https://github.com/shlomos/MoonlightFake.git
